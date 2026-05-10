@@ -1,0 +1,22 @@
+﻿/* [NEP v1.0] Inter ?고듃 濡쒖뺄 ?좎뼵 ??fonts.googleapis.com ?泥?*/
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('fonts/Inter/Inter-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('fonts/Inter/Inter-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: url('fonts/Inter/Inter-ExtraBold.woff2') format('woff2');
+}

@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# 로컬 오프라인 설정 스크립트 (재생성 가능)
+assets/setup-offline.ps1
+eng/assets/setup-offline.ps1
+
+# 임시 파일
+*.tmp
+*.log
